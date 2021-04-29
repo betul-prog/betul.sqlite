@@ -1,0 +1,2 @@
+# betul.sqlite
+SQLite
